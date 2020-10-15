@@ -3,7 +3,7 @@
 - Capturing and decoding video file
 - Grayscale conversion of image
 - Reduce noise
-- Detect egdes by canny
+- Detect edges by canny
 - Region of Interest 
 - Hough Line Transform
 ## Input
