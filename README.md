@@ -2,7 +2,8 @@
 ## Steps
 - Capturing and decoding video file
 - Grayscale conversion of image
-- Reduce noise 
+- Reduce noise
+- Detect egdes by canny
 - Region of Interest 
 - Hough Line Transform
 ## Input
