@@ -7,5 +7,5 @@
 - Hough Line Transform
 ## Input
 ![alt text](test_image.jpg)
-## Output Sceenshot of the video
+## Output Screenshot of the video
 ![alt text](vid.gif)
